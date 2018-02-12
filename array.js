@@ -29,7 +29,7 @@ return array;
 
 function removeElementFromBeginningOfArray(array) {
 }
-
+array
 function destructivelyRemoveElementFromEndOfArray(array) {
 
 }
